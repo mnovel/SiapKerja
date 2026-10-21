@@ -1,0 +1,127 @@
+https://sdm-rsud.pasuruankota.go.id/rest_pegawai/master/pegawai/detail/1512 
+https://sdm-rsud.pasuruankota.go.id/rest_pegawai/pegawai/ultah
+https://sdm-rsud.pasuruankota.go.id/rest_pegawai/lokasi/rsud
+https://sdm-rsud.pasuruankota.go.id/rest_pegawai/pegawai/jadwal/1512
+https://sdm-rsud.pasuruankota.go.id/rest_pegawai/message/broadcast/1512 
+
+
+
+https://sdm-rsud.pasuruankota.go.id/rest_pegawai/save_absen/pegawai
+
+
+{
+    "status": "200",
+    "data": {
+        "pegawai_id": 1512,
+        "jenis_pegawai": "kontrak             ",
+        "faceprint_id": 1512,
+        "profesi": "IT",
+        "kode_jabatan": 56,
+        "koderuang": 266,
+        "instalasi_id": 71,
+        "nama_pegawai": "MUHAMMAD NOVEL",
+        "noidentitas": "3575020208030003",
+        "nomorindukpegawai": "2003 202502 13 00 103",
+        "agama": "ISLAM",
+        "tempatlahir_pegawai": "Malang",
+        "tgl_lahirpegawai": "2003-08-02",
+        "alamat_pegawai": "JL. PANGLIMA SUDIRMAN NO. 120 RT. 04 RW. 04",
+        "jeniskelamin": "LAKI-LAKI"
+    }
+}
+
+{
+"status": "success",
+"data": {
+"PEGAWAI_ID": "1512",
+"GELAR_DPN": null,
+"NIP": "2003 202502 13 00 103",
+"NIK": "3575020208030003",
+"NAMA": "MUHAMMAD NOVEL",
+"GELAR_BLK": null,
+"TGLAHIR": "2003-08-02",
+"TMLAHIR": "Malang",
+"KELAMIN": "LAKI-LAKI",
+"AGAMA": "ISLAM",
+"HP": "0",
+"ALAMAT": "JL. PANGLIMA SUDIRMAN NO. 120 RT. 04 RW. 04",
+"IDUNIT": null,
+"NAMAUNIT": null,
+"JABATAN": null,
+"IDJABATAN": null,
+"STATUS_KEPEGAWAIAN": "kontrak",
+"TOKEN": "$1c3e7719290397b77ee22136fc9fe404#TUKU_TAHU_TEK-TENAK-TJOY--!#--",
+"GROUP_ID": 2,
+"LINK": "https://developer.rsudsidoarjo.co.id/rest_pegawai/assets/img/no_pict.jpg"
+}
+}
+
+AGAMA
+: 
+"ISLAM"
+ALAMAT
+: 
+"JL. PANGLIMA SUDIRMAN NO. 120 RT. 04 RW. 04"
+GELAR_BLK
+: 
+null
+GELAR_DPN
+: 
+null
+GROUP_ID
+: 
+2
+HP
+: 
+"0"
+IDJABATAN
+: 
+null
+IDUNIT
+: 
+null
+JABATAN
+: 
+null
+KELAMIN
+: 
+"LAKI-LAKI"
+LINK
+: 
+"https://developer.rsudsidoarjo.co.id/rest_pegawai/assets/img/no_pict.jpg"
+NAMA
+: 
+"MUHAMMAD NOVEL"
+NAMAUNIT
+: 
+null
+NIK
+: 
+"3575020208030003"
+NIP
+: 
+"2003 202502 13 00 103"
+PEGAWAI_ID
+: 
+"1512"
+STATUS_KEPEGAWAIAN
+: 
+"kontrak"
+TGLAHIR
+: 
+"2003-08-02"
+TMLAHIR
+: 
+"Malang"
+TOKEN
+: 
+"$15d21f52e69287cb48f4173c64fedfd8#TUKU_TAHU_TEK-TENAK-TJOY--!#--"
+id_user
+: 
+"1197"
+user_grup
+: 
+null
+user_nama
+: 
+"MUHAMMAD NOVEL"

@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #24c35c;
+  --color-secondary: #86e2ad;
+  --color-primary-dark: #1da854;
+  --color-primary-light: #edf8ef;
+  --color-primary-border: #b3d9bf;
+  --color-cuti-yellow: #fefadd;
+  --color-orange-custom: #f97316;
+}
+
+/* Hilangkan scrollbar di galeri */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
